@@ -28,6 +28,14 @@
 
 ## ໜ້າຕາຂອງລະບົບ
 
+<div>
+<img src="img/Screenshot (4).png">
+<img src="img/Screenshot (5).png">
+<img src="img/Screenshot (6).png">
+</div>
+
+## ເຄືອງມຶໃນການຂຽນ
+
 <center>
 <div>
 <img width="100" height="100" src="https://www.svgrepo.com/show/303656/php-logo.svg" alt="php-logo"/>
